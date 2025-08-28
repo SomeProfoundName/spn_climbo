@@ -36,7 +36,5 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-#nativewind env
-nativewind-env.d.ts
-
 app-example
+nativewind-env.d.ts
